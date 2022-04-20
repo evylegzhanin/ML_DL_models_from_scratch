@@ -7,6 +7,7 @@ This repository is for machine learning models created by hand, i.e. without spe
 4. Naive Bayes classifier
 5. PCA
 6. Tree
+7. Random Forest
   
 Sources: 
   - Machine Learning course by Stanford University on Coursera (files with data are taken from here as well)
