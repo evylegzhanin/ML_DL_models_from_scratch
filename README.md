@@ -14,7 +14,7 @@ This repository is for machine and deep learning models created by hand, i.e. wi
 1. Simple Neural Network
 
 **Other models:**
-1. [Word2vec](https://github.com/evylegzhanin/ML_DL_models_from_scratch/tree/main/word2vec) (word2vec based on Skip-Gram) - NLP
+1. [Word2vec](https://github.com/evylegzhanin/ML_DL_models_from_scratch/tree/main/word2vec) (word2vec based on Skip-Gram. Only theory by now) - NLP
 
 Sources: 
   - Machine Learning course by Stanford University on Coursera (files with data are taken from here as well)
